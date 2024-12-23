@@ -20,7 +20,7 @@ export default {
 		xl:"1200px"
 	},
 	fontFamily:{
-		primary : "Arial, Helvetica, sans-serif"
+		primary : ['Roboto Mono', 'monospace'],
 	},
   	extend: {
   		colors: {
